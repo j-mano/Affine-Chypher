@@ -1,0 +1,11 @@
+/home/joachim/Projects/AFFINE_CIPHER/AFFINE_CIPHER/obj/x86/Debug/AFFINE_CIPHER.csprojAssemblyReference.cache
+/home/joachim/Projects/AFFINE_CIPHER/AFFINE_CIPHER/obj/x86/Debug/AFFINE_CIPHER.csproj.CoreCompileInputs.cache
+/home/joachim/Projects/AFFINE_CIPHER/AFFINE_CIPHER/bin/Debug/AFFINE_CIPHER.exe
+/home/joachim/Projects/AFFINE_CIPHER/AFFINE_CIPHER/bin/Debug/AFFINE_CIPHER.pdb
+/home/joachim/Projects/AFFINE_CIPHER/AFFINE_CIPHER/obj/x86/Debug/AFFINE_CIPHER.exe
+/home/joachim/Projects/AFFINE_CIPHER/AFFINE_CIPHER/obj/x86/Debug/AFFINE_CIPHER.pdb
+/home/joachim/Projects/AFFINE_CIPHER/AFFINE_CIPHER/bin/Debug/AFFINE_CIPHER.exe.config
+/home/joachim/Projects/AFFINE_CIPHER/AFFINE_CIPHER/bin/Debug/AFFINE_CIPHER_Encruptions.dll
+/home/joachim/Projects/AFFINE_CIPHER/AFFINE_CIPHER/bin/Debug/AFFINE_CIPHER_Encruptions.pdb
+/home/joachim/Projects/AFFINE_CIPHER/AFFINE_CIPHER/obj/x86/Debug/AFFINE_CIPHER.exe.config
+/home/joachim/Projects/AFFINE_CIPHER/AFFINE_CIPHER/obj/x86/Debug/AFFINE_CIPHER.csproj.CopyComplete

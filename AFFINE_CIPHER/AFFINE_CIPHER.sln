@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AFFINE_CIPHER", "AFFINE_CIPHER\AFFINE_CIPHER.csproj", "{E2192EB3-029F-4031-A231-760D25630A7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AFFINE_CIPHER_Encruptions", "AFFINE_CIPHER_Encruptions\AFFINE_CIPHER_Encruptions.csproj", "{16311BBF-3225-4B7E-B7A0-850FF7FCB1F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2192EB3-029F-4031-A231-760D25630A7F}.Debug|x86.ActiveCfg = Debug|x86
+		{E2192EB3-029F-4031-A231-760D25630A7F}.Debug|x86.Build.0 = Debug|x86
+		{E2192EB3-029F-4031-A231-760D25630A7F}.Release|x86.ActiveCfg = Release|x86
+		{E2192EB3-029F-4031-A231-760D25630A7F}.Release|x86.Build.0 = Release|x86
+		{16311BBF-3225-4B7E-B7A0-850FF7FCB1F3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{16311BBF-3225-4B7E-B7A0-850FF7FCB1F3}.Debug|x86.Build.0 = Debug|Any CPU
+		{16311BBF-3225-4B7E-B7A0-850FF7FCB1F3}.Release|x86.ActiveCfg = Release|Any CPU
+		{16311BBF-3225-4B7E-B7A0-850FF7FCB1F3}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

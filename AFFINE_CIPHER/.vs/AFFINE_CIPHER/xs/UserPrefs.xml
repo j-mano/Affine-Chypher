@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E2192EB3-029F-4031-A231-760D25630A7F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AFFINE_CIPHER/MainWindow.cs">
+    <Files>
+      <File FileName="AFFINE_CIPHER/MainWindow.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AFFINE_CIPHER" expanded="True">
+            <Node name="AFFINE_CIPHER" expanded="True">
+              <Node name="MainWindow.cs" selected="True" />
+            </Node>
+            <Node name="AFFINE_CIPHER_Encruptions" expanded="True">
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AFFINE__CIPHER PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AFFINE__CIPHER__Encruptions FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
